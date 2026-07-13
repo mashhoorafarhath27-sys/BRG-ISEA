@@ -99,15 +99,20 @@ This session improved my understanding of how cloud computing helps organization
 
 I launched a free-tier Ubuntu EC2 instance using Amazon Web Services (AWS). After the instance was created successfully, I connected to it using EC2 Instance Connect.
 
-SCreenshot
+<img width="1920" height="1020" alt="Screenshot 2026-07-14 071320" src="https://github.com/user-attachments/assets/ef464a97-4793-4535-b226-5078dd1dd60b" />
 
-screenshot
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-14 071346" src="https://github.com/user-attachments/assets/9cf96cb8-f815-4298-b1ff-b4b5351d36be" />
+
 
 ### Updating the Sysytem
 
 After connecting to the Ubuntu server, I updated the package repository using 'sudo apt update' and upgraded the installed packages using 'sudo apt upgrade -y'. This ensured the server was running the latest available software and security updates.
 
-screenshots
+<img width="1920" height="1020" alt="Screenshot 2026-07-14 071417" src="https://github.com/user-attachments/assets/04b059c5-2ca9-4d9f-a1dd-1a30fd4d26d0" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-14 071433" src="https://github.com/user-attachments/assets/4d716e40-fcd7-4e51-bb8f-9c783747f780" />
 
 ### Outcome 
 
