@@ -69,3 +69,19 @@ I used the 'find' command to locate 'file1.txt' in different directories. I also
 ### Outcome 
 
 Successfully explored Linux service management, file permission, and file searching. I gained practical experience using 'systemctl', 'chmod', 'find', and 'grep' to manage and search files within the Linux environment.
+
+## Session 2a - Total Cost of Ownership (TCO)
+
+### Objectives
+
+- Compared cloud infrastructure with on-premise infrastructure.
+- Learned about hardware, software, maintenance, and licensing costa.
+- Underdtood the financial benefite of cloud comuting.
+
+### Description
+
+During this session , I learned the concept of Total cost of Ownership (TCO) by comparing traditional on-premise infrastucture with cloud-based solutions. I explored how cloud computing reduces upfront hardware costs, minimizes maintenance, and provides scalability while allowing organizations to pay only for the resources they use.
+
+## Outcome
+
+This session improved my understanding of how cloud computing helps organizations reduce operational costs, improve flexibility, and simplify infrastucture management.
