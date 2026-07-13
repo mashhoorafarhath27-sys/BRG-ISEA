@@ -60,7 +60,8 @@ Used:
 
 Outcome
 
-<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-22-43" src="https://github.com/user-attachments/assets/0a1522e3-f225-49c2-a167-50d271a24ea5" />
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/b1974de9-4c4d-47a0-add9-1446a1a4e585" />
+
 
 Developed an understanding of Linux service management, file permissions, ownership, and searching for files and content.
 
