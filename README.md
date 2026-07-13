@@ -203,13 +203,16 @@ Successfully automated Linux backup tasks using Bash scripting and cron jobs. I 
 
 I installed Docker on my Ubuntu virtual machine and verified the installation using the Docker version command.
 
-**Screenshot:** Docker installation verified.
+
+<img width="654" height="530" alt="Screenshot From 2026-07-14 07-53-54" src="https://github.com/user-attachments/assets/ad84ce2f-06ed-4a33-9a3a-3cc601305941" />
+
 
 ### Running the Hello World Container
 
 I executed the `hello-world` container to confirm that Docker was working correctly.
 
-**Screenshot:** Hello World container executed successfully.
+
+<img width="654" height="530" alt="Screenshot From 2026-07-14 07-55-27" src="https://github.com/user-attachments/assets/59b2a0b4-28c4-4718-ba40-ef6f666b8816" />
 
 ### Outcome
 
