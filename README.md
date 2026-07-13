@@ -149,17 +149,18 @@ Learned how Bash scripts automate Linux tasks by executing commands automaticall
 
 I installed DNS utilities and tested domain name resolution using `nslookup` and `dig`.
 
-**Screenshot:** Domain name successfully resolved using `nslookup`.
+<img width="651" height="526" alt="Screenshot From 2026-07-14 03-02-19" src="https://github.com/user-attachments/assets/f806c2d8-e002-4711-adb7-04db227aab08" />
 
-**Screenshot:** DNS information displayed using `dig`.
+<img width="651" height="526" alt="Screenshot From 2026-07-14 03-03-38" src="https://github.com/user-attachments/assets/817d40a8-005b-4d0d-8115-99aa1ecf5333" />
+
 
 ### Digital Certificates
 
 I updated the system, installed Certbot, and verified an SSL/TLS certificate using OpenSSL.
 
-**Screenshot:** System updated and Certbot installation process.
 
-**Screenshot:** SSL/TLS certificate verified using OpenSSL.
+<img width="651" height="526" alt="Screenshot From 2026-07-14 03-07-31" src="https://github.com/user-attachments/assets/787b3b42-5e0b-4db2-abda-38ebb79ff9e3" />
+
 
 ### Outcome
 
