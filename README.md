@@ -29,9 +29,9 @@ Commands Practised
 * touch
 * man
 
-Outcome
-
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 03-29-50" src="https://github.com/user-attachments/assets/f651fbd3-5a08-4da3-b464-6db7be0bade3" />
+
+outcome
 
 Successfully installed Ubuntu, configured the virtual machine, and became familiar with basic Linux navigation and file management.
 
