@@ -9,7 +9,7 @@ Overview
 
 This repository documents the practical lab activities completed for the BRG-ISEA unit. Throughout these labs, I gained hands-on experience with Linux administration, cloud computing, Docker, Bash scripting, DNS, SSL/TLS certificates, and server automation. Each section includes a brief description of the tasks performed, along with screenshots demonstrating successful completion.
 
-⸻
+
 
 Session 1a – Linux Setup
 
@@ -33,9 +33,9 @@ Outcome
 
 Successfully installed Ubuntu, configured the virtual machine, and became familiar with basic Linux navigation and file management.
 
-📷 Screenshot(s): (Insert screenshots here.)
 
-⸻
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 03-29-50" src="https://github.com/user-attachments/assets/f651fbd3-5a08-4da3-b464-6db7be0bade3" />
+
 
 Session 1b – Exploring Linux
 
