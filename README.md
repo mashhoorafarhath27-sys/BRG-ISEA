@@ -117,3 +117,28 @@ After connecting to the Ubuntu server, I updated the package repository using 's
 ### Outcome 
 
 Successfully launched and managed a cloud-based Ubuntu server using Amazon EC2. I connected to the server remotely and updated the operating system, gaining practical experience with cloud infrastructure mamagement.
+
+## Bash Scripting
+
+### Objectives
+
+- Created a Bash script.
+- Added executable permissions using 'chmod +x'.
+- Executed the script successfully.
+
+### Script Created
+
+'''bash
+#!/bin/bash
+echo "Hello, Mashhoora!"
+echo "Welcome to Bash Scripting."
+date
+'''
+
+<img width="651" height="526" alt="Screenshot From 2026-07-14 00-55-29" src="https://github.com/user-attachments/assets/c7768cc0-2b1d-4f82-ab50-c1fe6be96e54" />
+
+<img width="651" height="526" alt="Screenshot From 2026-07-14 00-54-51" src="https://github.com/user-attachments/assets/6cc1ee08-ea93-4cb3-a7f3-929b3623c271" />
+
+### Outcome
+
+Learned how Bash scripts automate Linux tasks by executing commands automatically and displaying output in the terminal.
