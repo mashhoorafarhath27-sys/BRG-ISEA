@@ -31,10 +31,10 @@ Commands Practised
 
 Outcome
 
-Successfully installed Ubuntu, configured the virtual machine, and became familiar with basic Linux navigation and file management.
-
-
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 03-29-50" src="https://github.com/user-attachments/assets/f651fbd3-5a08-4da3-b464-6db7be0bade3" />
+
+Successfully installed Ubuntu, configured the virtual machine, and became familiar with basic Linux navigation and file management.<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-22-43" src="https://github.com/user-attachments/assets/8a381941-e79f-4483-ac44-7aa342452e1e" />
+
 
 
 Session 1b – Exploring Linux
@@ -60,9 +60,11 @@ Used:
 
 Outcome
 
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-22-43" src="https://github.com/user-attachments/assets/0a1522e3-f225-49c2-a167-50d271a24ea5" />
+
 Developed an understanding of Linux service management, file permissions, ownership, and searching for files and content.
 
-📷 Screenshot(s): (Insert screenshots here.)
+
 
 ⸻
 
