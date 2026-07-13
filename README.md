@@ -50,6 +50,8 @@ Practised using:
 * ls -l
 * chmod
 * chown
+  
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/b1974de9-4c4d-47a0-add9-1446a1a4e585" />
 
 Searching Files
 
@@ -60,7 +62,8 @@ Used:
 
 Outcome
 
-<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/b1974de9-4c4d-47a0-add9-1446a1a4e585" />
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-35-02" src="https://github.com/user-attachments/assets/2bdee869-a356-4cdf-963d-21efdcd602ee" />
+
 
 
 Developed an understanding of Linux service management, file permissions, ownership, and searching for files and content.
