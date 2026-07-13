@@ -142,3 +142,25 @@ date
 ### Outcome
 
 Learned how Bash scripts automate Linux tasks by executing commands automatically and displaying output in the terminal.
+
+## Session 3a – DNS & Digital Certificates
+
+### DNS
+
+I installed DNS utilities and tested domain name resolution using `nslookup` and `dig`.
+
+**Screenshot:** Domain name successfully resolved using `nslookup`.
+
+**Screenshot:** DNS information displayed using `dig`.
+
+### Digital Certificates
+
+I updated the system, installed Certbot, and verified an SSL/TLS certificate using OpenSSL.
+
+**Screenshot:** System updated and Certbot installation process.
+
+**Screenshot:** SSL/TLS certificate verified using OpenSSL.
+
+### Outcome
+
+Learned how DNS translates domain names into IP addresses and how SSL/TLS certificates help provide secure encrypted communication between clients and servers.
