@@ -190,3 +190,27 @@ I scheduled the backup script to run automatically using `crontab`. The script o
 ### Outcome
 
 Successfully automated Linux backup tasks using Bash scripting and cron jobs. I learned how scheduled tasks help reduce manual work and improve server administration efficiency.
+
+## Session 4a – Docker
+
+### Objectives
+
+- Installed Docker on Ubuntu.
+- Verified the Docker installation.
+- Executed the `hello-world` container.
+
+### Docker Installation
+
+I installed Docker on my Ubuntu virtual machine and verified the installation using the Docker version command.
+
+**Screenshot:** Docker installation verified.
+
+### Running the Hello World Container
+
+I executed the `hello-world` container to confirm that Docker was working correctly.
+
+**Screenshot:** Hello World container executed successfully.
+
+### Outcome
+
+Successfully installed Docker and verified that containers could run correctly. This provided practical experience with container-based applications and Docker fundamentals.
