@@ -2,7 +2,7 @@
 Introduction to Server Environments and Architectures 
 Student Name: Mashhoora Farhath
 Unit: BRG-ISEA
-## Lab Acttivities Completed
+## Lab Activities Completed
 
 ## Session 1a - Linux Setup
 -Installed Ubuntu using VirtualBox.
