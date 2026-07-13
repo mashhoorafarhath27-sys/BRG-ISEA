@@ -42,3 +42,26 @@ This repositoycontains all practical lab activities completed for the BRG-ISEA m
 
 Successfully installed Ubuntu using oracle VirtualBox and became familiar with basic Linux commands for navigating directories and managing files.
 
+## Session 1b - Exploring Linux
+
+### Linux Services
+
+I used 'systemctl' command to view and manage Linux services. I checked the status of system services to understand how Linux controls background processes and verifies whether a service is active and running.
+
+<img width="654" height="530" alt="Screenshot From 2026-07-14 06-05-27" src="https://github.com/user-attachments/assets/5333d4fa-b26d-458c-900a-212560352151" />
+
+### File Permissions and Ownership
+
+I used the 'ls -l' command to view file permissions and the 'chmod' command to modify them. I changed the permissions of 'file1.txt' from '644' to '755' and then back to '644', verifying the chnages with 'ls -l'.
+
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/2a8fd713-93bd-4cc5-8aaa-04cf7cfc2ef9" />
+
+### Searching Files 
+
+I used the 'find' command to locate 'file1.txt' in different directories. I also used the 'grep' command to search for the word **Mashhoora** inside 'notes.txt'.
+
+<img width="1280" height="800" alt="Screenshot From 2026-07-14 04-35-02" src="https://github.com/user-attachments/assets/323b35b2-5fe7-4191-898b-0557d5e22b27" />
+
+### Outcome 
+
+Successfully explored Linux service management, file permission, and file searching. I gained practical experience using 'systemctl', 'chmod', 'find', and 'grep' to manage and search files within the Linux environment.
