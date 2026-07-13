@@ -165,3 +165,28 @@ I updated the system, installed Certbot, and verified an SSL/TLS certificate usi
 ### Outcome
 
 Learned how DNS translates domain names into IP addresses and how SSL/TLS certificates help provide secure encrypted communication between clients and servers.
+
+## Session 3b – Server Automation
+
+### Objectives
+
+- Created a backup script using Bash.
+- Scheduled the script using `cron`.
+- Logged the script output to a file.
+- Verified that the backup task executed successfully.
+
+### Backup Script
+
+I created a Bash script named `backup.sh` to automate the backup process. The script creates a backup directory, copies files, and records the execution time.
+
+**Screenshot:** Backup script created using Nano.
+
+### Automation Using Cron
+
+I scheduled the backup script to run automatically using `crontab`. The script output was redirected to a log file for verification.
+
+**Screenshot:** Cron job configured and backup log verified.
+
+### Outcome
+
+Successfully automated Linux backup tasks using Bash scripting and cron jobs. I learned how scheduled tasks help reduce manual work and improve server administration efficiency.
