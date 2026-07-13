@@ -56,6 +56,10 @@ I used the 'ls -l' command to view file permissions and the 'chmod' command to m
 
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/2a8fd713-93bd-4cc5-8aaa-04cf7cfc2ef9" />
 
+I used the 'chown' command to change the ownership of 'file1.txt' from one user to another. I verified the ownership change using 'ls -l' command to confirm that the file owner had updated successfully.
+
+<img width="654" height="530" alt="Screenshot From 2026-07-14 06-01-05" src="https://github.com/user-attachments/assets/0c3406e3-c2d8-49cd-8c41-41afb01569f0" />
+
 ### 1b-3 - Searching Files 
 
 I used the 'find' command to locate 'file1.txt' in different directories. I also used the 'grep' command to search for the word **Mashhoora** inside 'notes.txt'.
