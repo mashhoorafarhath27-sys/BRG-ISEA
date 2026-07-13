@@ -85,3 +85,30 @@ During this session , I learned the concept of Total cost of Ownership (TCO) by 
 ## Outcome
 
 This session improved my understanding of how cloud computing helps organizations reduce operational costs, improve flexibility, and simplify infrastucture management.
+
+## Session 2b - Cloud Services
+
+### Objectives
+
+- Created an Amazon EC2 Ubuntu instance.
+- Connected to the instance usingEC2 Instance connect.
+- Updated the operating system.
+- Installed software packages required for the lab.
+
+### AWS EC2 Instance
+
+I launched a free-tier Ubuntu EC2 instance using Amazon Web Services (AWS). After the instance was created successfully, I connected to it using EC2 Instance Connect.
+
+SCreenshot
+
+screenshot
+
+### Updating the Sysytem
+
+After connecting to the Ubuntu server, I updated the package repository using 'sudo apt update' and upgraded the installed packages using 'sudo apt upgrade -y'. This ensured the server was running the latest available software and security updates.
+
+screenshots
+
+### Outcome 
+
+Successfully launched and managed a cloud-based Ubuntu server using Amazon EC2. I connected to the server remotely and updated the operating system, gaining practical experience with cloud infrastructure mamagement.
