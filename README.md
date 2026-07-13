@@ -15,7 +15,8 @@ This repositoycontains all practical lab activities completed for the BRG-ISEA m
 -Learn basic Linux commands.
 -Explore the Linux file system.
 
-virtualbox screenshot
+<img width="1920" height="1020" alt="Screenshot 2026-07-14 053257" src="https://github.com/user-attachments/assets/b15b4970-4ac4-4431-ac18-2c7a31e39d49" />
+
 
 **Oracle VirtualBox showing the Ubuntu virtual machine.
 
