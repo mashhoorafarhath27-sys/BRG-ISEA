@@ -53,6 +53,10 @@ Practised using:
   
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/b1974de9-4c4d-47a0-add9-1446a1a4e585" />
 
+outcome
+
+Succesfully explored Linux file permissions using ls -l and modified file permissions with chmod, gaining an understanding of how access rights are managed in Linux.
+
 Searching Files
 
 Used:
@@ -64,9 +68,9 @@ Outcome
 
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 04-35-02" src="https://github.com/user-attachments/assets/2bdee869-a356-4cdf-963d-21efdcd602ee" />
 
+outcome
 
-
-Developed an understanding of Linux service management, file permissions, ownership, and searching for files and content.
+Succesfully searched for files using the find command and searched file contents using grep, demonstrating basic Linux file search and text search capabilities.
 
 
 
