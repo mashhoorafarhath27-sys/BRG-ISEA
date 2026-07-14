@@ -1,5 +1,5 @@
 # BRG-ISEA
-## Introduction to server Environments and Architectures
+## Introduction to Server Environments and Architectures
 
 **Student Name:** Mashhoora Farhath
 
@@ -27,32 +27,32 @@ This repository contains all practical lab activities completed for the BRG-ISEA
 <img width="652" height="490" alt="Screenshot From 2026-07-13 21-46-09" src="https://github.com/user-attachments/assets/fd756cee-935d-4cbb-9d70-810cc046fa17" />
 
 
-**Basic Linux cammands ('pwd', 'ls', 'mkdir', 'cd','touch', 'nano', and 'cat') executed successfully to create directories, create and edit files, and display file contents.**
+**Basic Linux commands ('pwd', 'ls', 'mkdir', 'cd','touch', 'nano', and 'cat') executed successfully to create directories, create and edit files, and display file contents.**
 
 ### Commands Practised
--pwd
--ls
--cd
--mkdir
--touch
--nano
--cat
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- nano
+- cat
 
 ### Outcome
 
-Successfully installed Ubuntu using oracle VirtualBox and became familiar with basic Linux commands for navigating directories and managing files.
+Successfully installed Ubuntu using Oracle VirtualBox and became familiar with basic Linux commands for navigating directories and managing files.
 
 ## Session 1b-1 - Exploring Linux
 
 ### Linux Services
 
-I used 'systemctl' command to view and manage Linux services. I checked the status of system services to understand how Linux controls background processes and verifies whether a service is active and running.
+I used `systemctl` command to view and manage Linux services. I checked the status of system services to understand how Linux controls background processes and verifies whether a service is active and running.
 
 <img width="654" height="530" alt="Screenshot From 2026-07-14 06-05-27" src="https://github.com/user-attachments/assets/5333d4fa-b26d-458c-900a-212560352151" />
 
 ### 1b-2 - File Permissions and Ownership
 
-I used the 'ls -l' command to view file permissions and the 'chmod' command to modify them. I changed the permissions of 'file1.txt' from '644' to '755' and then back to '644', verifying the chnages with 'ls -l'.
+I used the `ls -l` command to view file permissions and the 'chmod' command to modify them. I changed the permissions of 'file1.txt' from '644' to '755' and then back to '644', verifying the changes with 'ls -l'.
 
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 04-31-23" src="https://github.com/user-attachments/assets/2a8fd713-93bd-4cc5-8aaa-04cf7cfc2ef9" />
 
@@ -62,27 +62,27 @@ I used the 'chown' command to change the ownership of 'file1.txt' from one user 
 
 ### 1b-3 - Searching Files 
 
-I used the 'find' command to locate 'file1.txt' in different directories. I also used the 'grep' command to search for the word **Mashhoora** inside 'notes.txt'.
+I used the `find` command to locate 'file1.txt' in different directories. I also used the 'grep' command to search for the word **Mashhoora** inside 'notes.txt'.
 
 <img width="1280" height="800" alt="Screenshot From 2026-07-14 04-35-02" src="https://github.com/user-attachments/assets/323b35b2-5fe7-4191-898b-0557d5e22b27" />
 
 ### Outcome 
 
-Successfully explored Linux service management, file permission, and file searching. I gained practical experience using 'systemctl', 'chmod', 'find', and 'grep' to manage and search files within the Linux environment.
+Successfully explored Linux service management, file permissions, and file searching. I gained practical experience using 'systemctl', 'chmod', 'find', and 'grep' to manage and search files within the Linux environment.
 
 ## Session 2a - Total Cost of Ownership (TCO)
 
 ### Objectives
 
 - Compared cloud infrastructure with on-premise infrastructure.
-- Learned about hardware, software, maintenance, and licensing costa.
-- Underdtood the financial benefite of cloud comuting.
+- Learned about hardware, software, maintenance, and licensing costs.
+- Understood the financial benefits of cloud computing.
 
 ### Description
 
-During this session , I learned the concept of Total cost of Ownership (TCO) by comparing traditional on-premise infrastucture with cloud-based solutions. I explored how cloud computing reduces upfront hardware costs, minimizes maintenance, and provides scalability while allowing organizations to pay only for the resources they use.
+During this session , I learned the concept of Total cost of Ownership (TCO) by comparing traditional on-premise infrastructure with cloud-based solutions. I explored how cloud computing reduces upfront hardware costs, minimizes maintenance, and provides scalability while allowing organizations to pay only for the resources they use.
 
-## Outcome
+### Outcome
 
 This session improved my understanding of how cloud computing helps organizations reduce operational costs, improve flexibility, and simplify infrastucture management.
 
@@ -91,7 +91,7 @@ This session improved my understanding of how cloud computing helps organization
 ### Objectives
 
 - Created an Amazon EC2 Ubuntu instance.
-- Connected to the instance usingEC2 Instance connect.
+- Connected to the instance using EC2 Instance Connect.
 - Updated the operating system.
 - Installed software packages required for the lab.
 
@@ -105,7 +105,7 @@ I launched a free-tier Ubuntu EC2 instance using Amazon Web Services (AWS). Afte
 <img width="1920" height="1020" alt="Screenshot 2026-07-14 071346" src="https://github.com/user-attachments/assets/9cf96cb8-f815-4298-b1ff-b4b5351d36be" />
 
 
-### Updating the Sysytem
+### Updating the System
 
 After connecting to the Ubuntu server, I updated the package repository using 'sudo apt update' and upgraded the installed packages using 'sudo apt upgrade -y'. This ensured the server was running the latest available software and security updates.
 
@@ -116,7 +116,7 @@ After connecting to the Ubuntu server, I updated the package repository using 's
 
 ### Outcome 
 
-Successfully launched and managed a cloud-based Ubuntu server using Amazon EC2. I connected to the server remotely and updated the operating system, gaining practical experience with cloud infrastructure mamagement.
+Successfully launched and managed a cloud-based Ubuntu server using Amazon EC2. I connected to the server remotely and updated the operating system, gaining practical experience with cloud infrastructure management.
 
 ## Bash Scripting
 
@@ -210,7 +210,7 @@ Successfully automated a backup task using Bash scripting and cron, demonstratin
 
 ### Docker Installation
 
-I installed Docker on my Ubuntu virtual machine and verified the installation using the Docker version command.
+I installed Docker on my Ubuntu system and verified that the installation was successful before running the hello-world container.
 
 
 <img width="654" height="530" alt="Screenshot From 2026-07-14 07-53-54" src="https://github.com/user-attachments/assets/ad84ce2f-06ed-4a33-9a3a-3cc601305941" />
