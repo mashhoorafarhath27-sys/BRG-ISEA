@@ -179,19 +179,23 @@ Learned how DNS translates domain names into IP addresses and how SSL/TLS certif
 
 I created a Bash script named `backup.sh` to automate the backup process. The script copies files to a backup directory and records the execution time in a log file.
 
-**Screenshot:** Backup script created using Nano.
+<img width="654" height="530" alt="Screenshot From 2026-07-14 08-14-51" src="https://github.com/user-attachments/assets/8cf6c4f3-dcbb-4f97-909f-c2794319c1f0" />
+
 
 ### Script Execution
 
 I made the script executable using `chmod +x`, executed it, and verified the output by checking `backup.log`.
 
-**Screenshot:** Backup script executed successfully.
+<img width="654" height="530" alt="image" src="https://github.com/user-attachments/assets/395c0956-1835-48db-9fa6-81d0f9419f89" />
+
 
 ### Cron Automation
 
 I scheduled the backup script using `crontab` and verified the cron schedule using `crontab -l`.
 
-**Screenshot:** Cron schedule configured successfully.
+
+<img width="654" height="530" alt="Screenshot From 2026-07-14 08-13-59" src="https://github.com/user-attachments/assets/f4dc81b7-ae24-4dcc-aaa1-f3d218c65e3a" />
+
 
 ### Outcome
 
