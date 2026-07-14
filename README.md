@@ -135,9 +135,10 @@ echo "Welcome to Bash Scripting."
 date
 ```
 
-<img width="651" height="526" alt="Screenshot From 2026-07-14 00-55-29" src="https://github.com/user-attachments/assets/c7768cc0-2b1d-4f82-ab50-c1fe6be96e54" />
+<img width="654" height="530" alt="Screenshot From 2026-07-14 09-42-04" src="https://github.com/user-attachments/assets/121c40d6-a3b5-43dd-a63d-3c90018de2b4" />
 
-<img width="651" height="526" alt="Screenshot From 2026-07-14 00-54-51" src="https://github.com/user-attachments/assets/6cc1ee08-ea93-4cb3-a7f3-929b3623c271" />
+<img width="654" height="530" alt="Screenshot From 2026-07-14 09-41-41" src="https://github.com/user-attachments/assets/4dd96f2f-fa02-4427-b96b-4870e8dae941" />
+
 
 ### Outcome
 
