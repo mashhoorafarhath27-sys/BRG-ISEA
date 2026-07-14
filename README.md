@@ -173,24 +173,29 @@ Learned how DNS translates domain names into IP addresses and how SSL/TLS certif
 - Created a backup script using Bash.
 - Scheduled the script using `cron`.
 - Logged the script output to a file.
-- Verified that the backup task executed successfully.
+- Verified the scheduled task.
 
 ### Backup Script
 
-I created a Bash script named `backup.sh` to automate the backup process. The script creates a backup directory, copies files, and records the execution time.
+I created a Bash script named `backup.sh` to automate the backup process. The script copies files to a backup directory and records the execution time in a log file.
 
 **Screenshot:** Backup script created using Nano.
 
-### Automation Using Cron
+### Script Execution
 
-I scheduled the backup script to run automatically using `crontab`. The script output was redirected to a log file for verification.
+I made the script executable using `chmod +x`, executed it, and verified the output by checking `backup.log`.
 
-**Screenshot:** Cron job configured and backup log verified.
+**Screenshot:** Backup script executed successfully.
+
+### Cron Automation
+
+I scheduled the backup script using `crontab` and verified the cron schedule using `crontab -l`.
+
+**Screenshot:** Cron schedule configured successfully.
 
 ### Outcome
 
-Successfully automated Linux backup tasks using Bash scripting and cron jobs. I learned how scheduled tasks help reduce manual work and improve server administration efficiency.
-
+Successfully automated a backup task using Bash scripting and cron, demonstrating how Linux can schedule administrative tasks automatically.
 ## Session 4a – Docker
 
 ### Objectives
